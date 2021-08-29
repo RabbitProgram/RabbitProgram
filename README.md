@@ -10,7 +10,7 @@
 https://rabbitprogram.com/
 
 
-## Contributions（毎日AM2:00に自動更新）
+## Contributions（毎日AM2:00に反映）
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="60%">
 参考：https://qiita.com/yoshi389111/items/4471c7a73f785fed4615
 
