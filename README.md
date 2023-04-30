@@ -14,8 +14,10 @@ https://rabbitprogram.com/
 <a href="https://skillicons.dev"><img alt="My Skills" src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,nodejs,vue,react,redux,jest,materialui,dart,flutter,php,python,flask,mysql,docker,java,c,cs,dotnet,eclipse,visualstudio,vscode,figma,ai,gcp,firebase,arduino,raspberrypi,git,github,discord,linux,md,selenium,sentry,twitter,wordpress&theme=light"></a>
 
 ## 📊 貢献ログ（毎日AM2:00に反映）
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="60%">
-参考：https://qiita.com/yoshi389111/items/4471c7a73f785fed4615
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitProgram&layout=compact"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api?username=RabbitProgram&show_icons=true&count_private=true"></a>
+<br/>
+<a href="https://qiita.com/yoshi389111/items/4471c7a73f785fed4615"><img alt="GitHub Profile 3D Contrib" src="./profile-3d-contrib/profile-green-animate.svg" width="60%"></a>
 
 
 <!--
