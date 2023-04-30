@@ -11,7 +11,7 @@ https://rabbitprogram.com/
 
 
 ## 🌱 スキル
-<a href="https://skillicons.dev"><img alt="My Skills" src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,nodejs,vue,react,redux,jest,materialui,dart,flutter,php,python,flask,mysql,docker,java,c,cs,dotnet,eclipse,visualstudio,vscode,figma,ai,gcp,firebase,arduino,raspberrypi,git,github,discord,linux,md,selenium,sentry,twitter,wordpress"></a>
+<a href="https://skillicons.dev"><img alt="My Skills" src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,nodejs,vue,react,redux,jest,materialui,dart,flutter,php,python,flask,mysql,docker,java,c,cs,dotnet,eclipse,visualstudio,vscode,figma,ai,gcp,firebase,arduino,raspberrypi,git,github,discord,linux,md,selenium,sentry,twitter,wordpress&theme=light"></a>
 
 ## 📊 貢献ログ（毎日AM2:00に反映）
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="60%">
