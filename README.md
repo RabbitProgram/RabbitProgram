@@ -1,10 +1,12 @@
+<img width="500" src="https://github.com/RabbitProgram/RabbitProgram/assets/74450836/10b0e97a-e2fd-49ef-9b9b-84bfc0f5b119"><br/>
+[U-22 プログラミング・コンテスト 2020](https://u22procon.com/2020/report/)<br/>
+<br/>
 <table>
   <tr>
     <td>閲覧者数</td>
     <td><img src="https://profile-counter.glitch.me/RabbitProgram/count.svg" alt="" /></td>
   </tr>
 </table>
-
 
 ## 🌐 公式ホームページ
 https://rabbitprogram.com/
