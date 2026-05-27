@@ -13,7 +13,7 @@ https://rabbitprogram.com/
 
 
 ## 🌱 スキル
-<a href="https://skillicons.dev"><img alt="My Skills" src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,nodejs,vue,react,redux,jest,materialui,dart,flutter,php,python,flask,mysql,docker,java,c,cs,dotnet,eclipse,visualstudio,vscode,figma,ai,gcp,firebase,arduino,raspberrypi,git,github,discord,linux,md,selenium,sentry,twitter,wordpress&theme=light"></a>
+<a href="https://skillicons.dev"><img alt="My Skills" src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,nodejs,vue,react,redux,jest,materialui,dart,flutter,php,python,flask,mysql,docker,java,c,cs,dotnet,eclipse,visualstudio,vscode,figma,ai,gcp,firebase,arduino,raspberrypi,git,github,discord,linux,md,selenium,sentry,twitter,wordpress,jenkins&theme=light"></a>
 
 ## 📊 貢献ログ（毎日AM2:00に反映）
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitProgram&layout=compact"></a>
